@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+logs/
+
+# IDE
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
